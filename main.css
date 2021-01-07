@@ -1,0 +1,39 @@
+body > div {
+    display: inline-block;
+    width: 800px;
+    margin-left: calc((100% - 800px) / 2);
+    background-color: rgb(255, 217, 0);
+}
+
+div > header {
+display: inline-block;
+width: 100%
+}
+
+header > img {
+display: inline-block; 
+float: left;
+background-color: red;
+}
+
+nav {
+display: inline-block;
+float: right;
+background-color: aqua;
+}
+
+main {
+display: inline-block;
+width: 100%;
+}
+div > h1 {
+    display: inline-block;
+}
+
+div > p {
+    display: inline-block;
+}
+
+body > img {
+
+}
